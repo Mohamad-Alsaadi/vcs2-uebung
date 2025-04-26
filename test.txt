@@ -1,10 +1,1 @@
-orange
-brot
-apfel
-cola
-fanta
-wein
-sprite
-main1
-beta1
-
+eins
